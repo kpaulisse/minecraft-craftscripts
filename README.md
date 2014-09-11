@@ -7,7 +7,7 @@ The inspiration for me to get started with CraftScripts was my son wanting to co
 
 # General Instructions - Install
 
-You have to have a Bukkit server already -- and that does take some work beyond simply installing Minecraft on your computer. Here's how to do it -> http://wiki.bukkit.org/Setting_up_a_server
+You have to have a Bukkit server already, because Bukkit is no longer available for download. You might want to read -> http://www.spongepowered.org/
 
 Once your server is running, you need to install the WorldEdit plugin. When installing any plugin, make sure the version of the plugin matches the version of the server. In other words, suppose you've downloaded Bukkit 1.7.10. Make sure you download the version of the plugin that is written for Bukkit 1.7.10.
 
