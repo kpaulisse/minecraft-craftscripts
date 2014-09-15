@@ -1,0 +1,1 @@
+/minecraft/server/craftbukkit/plugins/WorldEdit/craftscripts/suspensionbridge.js
